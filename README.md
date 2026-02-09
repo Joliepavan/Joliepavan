@@ -1,9 +1,10 @@
-# Oi! Sou a Jolie Pavan 👋
+# Hi, I'm Jolie Pavan 👋
 
-### Estudante de engenharia de software na UFG 
-#### Software Engineering Student @ UFG 🇧🇷
+### Software Engineering Student @ UFG 🇧🇷
 
-Meu foco é construir bases sólidas em engenharia de software, transitando entre o baixo nível (C) e o desenvolvimento moderno de sistemas e jogos.
+**PT:** Explorando a interseção entre sistemas de baixo nível (C/C++) e a agilidade da automação moderna e desenvolvimento web.
+<br>
+**EN:** Exploring the intersection of low-level systems (C/C++) and the agility of modern automation and web development.
 
 ---
 
@@ -11,18 +12,18 @@ Meu foco é construir bases sólidas em engenharia de software, transitando entr
 
 **Core & Systems**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-**Web & Database**
+**Backend & Automation**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-**Game Dev & Tools**
+**Creative Dev & Tools**
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23478cbf.svg?style=flat-square&logo=godot-engine&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 

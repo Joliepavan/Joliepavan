@@ -1,4 +1,4 @@
-# Hi, I'm Jolie Pavan 👋
+# Hi, I'm Jolie Pavan!
 
 ### Software Engineering Student @ UFG 🇧🇷
 

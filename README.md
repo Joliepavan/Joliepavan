@@ -1,4 +1,4 @@
-# Hi, I'm Jolie Pavan!
+# Hi, I'm Jolie Pavan 👋
 
 ### Software Engineering Student @ UFG 🇧🇷
 
@@ -11,19 +11,19 @@
 ### 🛠️ Tech Stack
 
 **Core & Systems**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
 
 **Backend & Automation**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?logo=n8n&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
 **Creative Dev & Tools**
-![Godot Engine](https://img.shields.io/badge/GODOT-%23478cbf.svg?style=flat-square&logo=godot-engine&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23478cbf.svg?logo=godot-engine&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-000000?logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 
 ---
 
@@ -31,8 +31,8 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SJoliepavan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joliepavan&layout=compact&theme=dracula"/>
   </a>
 </div>
 

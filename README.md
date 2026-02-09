@@ -1,6 +1,7 @@
-# Hello, I'm Jolie Pavan 👋
+# Oi! Sou a Jolie Pavan 👋
 
-### Software Engineering Student @ UFG 🇧🇷
+### Estudante de engenharia de software na UFG 
+#### Software Engineering Student @ UFG 🇧🇷
 
 Meu foco é construir bases sólidas em engenharia de software, transitando entre o baixo nível (C) e o desenvolvimento moderno de sistemas e jogos.
 
